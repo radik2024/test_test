@@ -1,3 +1,8 @@
 un nuovo xabcdefgh
 1234342fgh
+<<<<<<< HEAD
 dfgdfg4342fgh
+=======
+lkjhkjhkjh
+>>>>>>> dev2
+===================
