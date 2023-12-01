@@ -6,3 +6,4 @@ dfgdfg4342fgh
 lkjhkjhkjh
 >>>>>>> dev2
 ===================
+aggiunta la riga da test_merge2
